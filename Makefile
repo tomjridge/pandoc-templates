@@ -12,7 +12,6 @@ test.html: test.md test.html5 FORCE
 clean: FORCE
 	rm -f bootstrap_navbar_example.html
 	rm -f test.aux
-	rm -f test.bib
 	rm -f test.dvi
 	rm -f test.html
 	rm -f test.log
